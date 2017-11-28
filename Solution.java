@@ -6,7 +6,7 @@
 
 /**
  *
- * @author 吉彬
+ * @author 吉彬哈哈哈
  */
 public class Solution {
     public static void main(String[] args){
